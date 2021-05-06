@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news_image">News Image</string>
+    <string name="error_occured">Error Occurred</string>
+    <string name="connect_internet">Please Connect the internet</string>
+    <string name="internet_warning">Check your connection and try again</string>
+    <string name="no_internet_msg">Internet Not Connected</string>
+    <string name="try_again">Try Again</string>
+</resources>
